@@ -5,11 +5,11 @@
 ## Setup
 
 ```sh
-$ npm install --save-dev cypress-mongo-seeder
+$ npm install --save-dev @floogulinc/cypress-mongo-seeder
 
 or
 
-$ yarn add --dev cypress-mongo-seeder
+$ yarn add --dev @floogulinc/cypress-mongo-seeder
 ```
 
 ## Usage
