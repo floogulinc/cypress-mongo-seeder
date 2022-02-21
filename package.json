@@ -1,6 +1,6 @@
 {
   "name": "@floogulinc/cypress-mongo-seeder",
-  "version": "1.0.8",
+  "version": "1.1.0",
   "description": "A cypress plugin to populate a mongo db from json files",
   "repository": {
     "type": "git",
